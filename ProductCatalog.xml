@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+    <PhoneCatalog>
+
+        <phone id="Iphone12">
+            <name>Iphone 12</name>
+            <price>599.99</price>
+            <image>iphone-12.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </phone>
+        <phone id="Iphone13">
+            <name>Iphone 13</name>
+            <price>699.99</price>
+            <image>Iphone-13.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </phone>
+
+        <phone id="Iphone14">
+            <name>Iphone 14</name>
+            <price>899.99</price>
+            <image>iphone-14-.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </phone>
+
+         <phone id="Iphone14 Pro">
+            <name>Iphone 14 Pro</name>
+            <price>999.99</price>
+            <image>iphone-14-pro.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </phone>
+
+         <phone id="IphoneSE">
+            <name>Iphone SE</name>
+            <price>499.99</price>
+            <image>Iphone-se.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </phone>
+         <phone id="SamsungGalaxyM13">
+            <name>SamsungGalaxy M13</name>
+            <price>649.99</price>
+            <image>Samsung galaxy M13.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <accessories>
+                <accessory>samsungcase</accessory>
+            </accessories>
+          
+        </phone>
+        <phone id="Samsung GalaxyZ Fold3">
+            <name>Samsung Galaxy Z Fold3</name>
+            <price>849.99</price>
+            <image>Galaxy Z Fold3 5G.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <accessories>
+                <accessory>samsungcase</accessory>
+            </accessories>
+             <accessories>
+                <accessory>samsungadapter</accessory>
+            </accessories>
+             <accessories>
+                <accessory>samsungearphones</accessory>
+            </accessories>
+
+
+        </phone>
+        <phone id="SamsungGalaxyA03s">
+            <name>Samsung GalaxyA03s</name>
+            <price>549.99</price>
+            <image>Galaxy-A03s.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <accessories>
+                <accessory>samsungcase</accessory>
+            </accessories>
+        </phone>
+         <phone id="SamsungGalaxyS22">
+            <name>SamsungGalaxyS22</name>
+            <price>649.99</price>
+            <image>galaxy-s22-bora.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <accessories>
+                <accessory>samsungcase</accessory>
+            </accessories>
+        </phone>
+         <phone id="SamsungGalaxy A13">
+            <name>Samsung Galaxy A13</name>
+            <price>499.99</price>
+            <image>Samsung-A13.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+            <accessories>
+                <accessory>samsungcase</accessory>
+            </accessories>
+        </phone>
+        <phone id="OnePlus Nord N20">
+            <name>One Plus Nord N20</name>
+            <price>449.99</price>
+            <image>OnePlus Nord N20 5G.jpg</image>
+            <manufacturer>OnePlus</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </phone>
+        <phone id="OnePlus 8T">
+            <name>One Plus 8T</name>
+            <price>599.99</price>
+            <image>OnePlus 8T.jpg</image>
+            <manufacturer>OnePlus</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </phone>
+        <phone id="OnePlus 9">
+            <name>OnePlus 9</name>
+            <price>699.99</price>
+            <image>OnePlus 9.jpg</image>
+            <manufacturer>OnePlus</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </phone>
+
+           <phone id="OnePlus 10Pro">
+            <name>One Plus 10Pro</name>
+            <price>799.99</price>
+            <image>OnePlus 10Pro.jpg</image>
+            <manufacturer>OnePlus</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </phone>
+
+           <phone id="OnePlus 10T">
+            <name>One Plus 10T</name>
+            <price>649.99</price>
+            <image>OnePlus 10T.jpg</image>
+            <manufacturer>OnePlus</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </phone>
+    </PhoneCatalog>
+
+    <LaptopCatalog>
+        <laptop id="SamsungGalaxyBook Pro360">
+            <name>Samsung Galaxy Book Pr0360</name>
+            <price>1199.99</price>
+            <image>Samsung Galaxy Book Pro360.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </laptop>
+        <laptop id="SamsungGalaxyChromeBook2">
+            <name>Samsung Galaxy Chrome Book2</name>
+            <price>599.99</price>
+            <image>Samsung - Galaxy Chromebook 2.jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </laptop>
+        <laptop id="SamsungGalaxyBookGo">
+            <name>Samsung Galaxy Book Go-14"</name>
+            <price>1099.99</price>
+            <image>Samsung - Galaxy Book Go - 14".jpg</image>
+            <manufacturer>Samsung</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </laptop>
+        <laptop id="Applemacbookpro">
+            <name>Apple Macbook Pro 14"</name>
+            <price>1199.99</price>
+            <image>MacBook Pro 14" Laptop - Apple M1 Pro chip.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </laptop>
+        <laptop id="Applemacbookair M1">
+            <name>Apple Macbook Air M1 Chip</name>
+            <price>899.99</price>
+            <image>MacBook Air M1.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </laptop>
+        <laptop id="Applemacbookair">
+            <name>Apple Macbook Air M2 Chip</name>
+            <price>1109.99</price>
+            <image>MacBook Air M2.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </laptop>
+
+        <laptop id="DellLatitute3520">
+            <name>Dell Latitute 3520</name>
+            <price>699.99</price>
+            <image>Dell Latitude 3520.jpg</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </laptop>
+
+         <laptop id="Dell XPS 15">
+            <name>Dell XPS 15</name>
+            <price>599.99</price>
+            <image>Dell XPS 15.jpg</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </laptop>
+
+         <laptop id="Dell Insprion 14">
+            <name>Dell Insprion 14</name>
+            <price>1099.99</price>
+            <image>Dell Inspiron 14.jpg</image>
+            <manufacturer>Dell</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount>
+        </laptop>
+    </LaptopCatalog>
+
+    <WearableTechnologyCatalog>
+        <wt id="Boat Smart4">
+           <name>Boat Smart4</name>
+            <price>229.99</price>
+            <image>Boat Smart4.jpg</image>
+            <manufacturer>Fitnesswatches</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+        <wt id="Fastrack5">
+           <name>Fastrack5</name>
+            <price>209.99</price>
+            <image>Fastrack5.jpg</image>
+            <manufacturer>Fitnesswatches</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+
+
+         <wt id="FitBe">
+           <name>FitBe Smart</name>
+            <price>109.99</price>
+            <image>FitBe.jpg</image>
+            <manufacturer>Fitnesswatches</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+
+         <wt id="G-Shock">
+           <name>G-Shock Health</name>
+            <price>399.99</price>
+            <image>G-Shock.jpg</image>
+            <manufacturer>Fitnesswatches</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+
+        <wt id="AppleWatch8">
+           <name>Apple Watch  Series 8</name>
+            <price>529.99</price>
+            <image>Apple Watch Series 8.jpg</image>
+            <manufacturer>Fitnesswatches</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+
+         <wt id="AppleWatchUltra">
+           <name>Apple Watch Ultra</name>
+            <price>729.99</price>
+            <image>Apple Watch Ultra.jpg</image>
+            <manufacturer>Fitnesswatches</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+
+        <wt id="SamsungGalaxyWatch5">
+           <name>Samsung Galaxy Watch 5 Pro</name>
+            <price>399.99</price>
+            <image>Galaxy Watch5 Pro.jpg</image>
+            <manufacturer>Smartwatches</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+        <wt id="Tissot">
+           <name>Tissot Nxt Gen</name>
+            <price>800.19</price>
+            <image>Tissot.jpg</image>
+            <manufacturer>Smartwatches</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+
+         <wt id="Boat S4">
+           <name>Boat S4</name>
+            <price>200.19</price>
+            <image>Boat S4.jpg</image>
+            <manufacturer>Smartwatches</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+
+        <wt id="SonyBluetooth">
+           <name>Sony Headset MDR</name>
+            <price>198</price>
+            <image>SONY MDR.jpg</image>
+            <manufacturer>Headphones</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+        <wt id="BeatsSolo3">
+           <name>Beats Solo3 Wireless</name>
+            <price>118</price>
+            <image>BeatsHeadset3.jpg</image>
+            <manufacturer>Headphones</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+
+         <wt id="Apple Airpods">
+           <name>Apple AirPods Max</name>
+            <price>598</price>
+            <image>AirPods Max.jpg</image>
+            <manufacturer>Headphones</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+
+         <wt id="Boat Headset">
+           <name>Boat Headset</name>
+            <price>298</price>
+            <image>Boat Headset.jpg</image>
+            <manufacturer>Headphones</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+
+        <wt id="Urbanista">
+           <name>Urbanista Wireless Headset</name>
+            <price>698</price>
+            <image>Urbanista.jpg</image>
+            <manufacturer>Headphones</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+        <wt id="MellcoVRSet">
+           <name>Mellco VR Set</name>
+            <price>400</price>
+            <image>Mellco VR Set.jpg</image>
+            <manufacturer>VirtualReality</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+         <wt id="Sony PlayStation VR">
+           <name>Sony PlayStation VR</name>
+            <price>499.99</price>
+            <image>Sony PlayStation VR.jpg</image>
+            <manufacturer>VirtualReality</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+
+         <wt id="MetaQuest">
+           <name>Meta Quest</name>
+            <price>799.99</price>
+            <image>Meta Quest.jpg</image>
+            <manufacturer>VirtualReality</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+        <wt id="TractiveGPSDog4">
+           <name>Tractive GPS Dog 4</name>
+            <price>49.99</price>
+            <image>TractiveGPSDog4.jpg</image>
+            <manufacturer>PetTracker</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+         <wt id="SmartGPSCatCollar">
+           <name>Smart GPS Cat Collar</name>
+            <price>59.99</price>
+            <image>CatCollar2_600x.jpg</image>
+            <manufacturer>PetTracker</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+
+          <wt id="SmartGPSCatCollar">
+           <name>Smart Tracker Collar Belt</name>
+            <price>99.99</price>
+            <image>collarBelt_1.jpg</image>
+            <manufacturer>PetTracker</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+
+         <wt id="SmartPetNeck">
+           <name>Smart Pet Neck</name>
+            <price>79.99</price>
+            <image>Petneck4.jpg</image>
+            <manufacturer>PetTracker</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </wt>
+
+
+    </WearableTechnologyCatalog>
+
+    <VoiceAssistantCatalog>
+        <va id="GoogleHome">
+            <name>Google Home</name>
+            <price>99.99</price>
+            <image>Google Home.jpg</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </va>
+        <va id="GoogleNestMini">
+            <name>Google Nest Mini</name>
+            <price>119.99</price>
+            <image>Google Nest Mini.jpg</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </va>
+        <va id="GoogleNest">
+            <name>Google Nest</name>
+            <price>149.99</price>
+            <image>Google Nest.jpg</image>
+            <manufacturer>Google</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </va>
+        <va id="Apple Home">
+            <name>Apple Home mini</name>
+            <price>199.99</price>
+            <image>Apple Home mini.jpg</image>
+            <manufacturer>Apple</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </va>
+        <va id="AmazonEchoDot">
+            <name>Amazon Echo Dot 4th Gen</name>
+            <price>79.99</price>
+            <image>Amazon Echo Dot 4th Gen.jpg</image>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </va>
+        <va id="AmazonEchoDot2">
+            <name>Amazon Echo Dot 2nd Gen</name>
+            <price>49.99</price>
+            <image>Amazon Echo 2nd Gen.jpg</image>
+            <manufacturer>Amazon</manufacturer>
+            <condition>New</condition>
+            <discount>5.0</discount> 
+        </va>
+    </VoiceAssistantCatalog>
+
+
+    <AccessoryCatalog>
+
+    <accessory id="samsungcase">
+        <name>Samsung Z Fold Blue Case</name>
+        <price>9.99</price>
+        <image>samsungcase.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+      <accessory id="samsungCharger">
+        <name>Samsung Fast Adapter</name>
+        <price>19.99</price>
+        <image>Smgcharger.jpg.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+      <accessory id="samsungbluecover">
+        <name>Samsung Protective case</name>
+        <price>29.99</price>
+        <image>Samsung Cover Blue.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+
+    </AccessoryCatalog>
+</ProductCatalog>
